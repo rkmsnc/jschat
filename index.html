@@ -1,0 +1,25 @@
+<html>
+
+<head>
+  <title>My Chat</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="jschat.css" />
+</head>
+
+<body>
+  <div class="chat-main"></div>
+  <script type="text/javascript" src="jschat.js"></script>
+  <script>
+    new JSChat({
+      https: false,
+      wss: false,
+      httpHost: '192.168.65.130:8000',
+      wsHost: '192.168.65.130:5000',
+      chatTitle: 'JSChat',
+      loginTitle: 'Login as',
+      loginButtonText: 'Let me in'
+    })
+  </script>
+</body>
+
+</html>

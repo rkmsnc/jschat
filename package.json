@@ -1,0 +1,37 @@
+{
+  "name": "jschat",
+  "version": "1.0.0",
+  "description": "A Javascript Chat Application library with NodeJs Server using Websocket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Websocket"
+    "NodeJs",
+    "Javascript",
+    "Chat"
+  ],
+  "author": "rkmsnc <radhakrishnabca@gmail.com>",
+  "contributors": [
+    {
+      "name": "Radha Krishna Eedualaknti",
+      "email": "radhakrishnabca@gmail.com",
+      "url": "http://github.com/rkmsnc"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "ws": "8.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkmsnc/jschat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rkmsnc/jschat/issues"
+  },
+  "homepage": "https://github.com/rkmsnc/jschat#readme"
+}
