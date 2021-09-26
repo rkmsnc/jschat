@@ -1,5 +1,5 @@
 {
-  "name": "jschat",
+  "name": "@rkmsnc/jschat",
   "version": "1.0.0",
   "description": "A Javascript Chat Application library with NodeJs Server using Websocket",
   "main": "server.js",
