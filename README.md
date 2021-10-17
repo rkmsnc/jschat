@@ -32,4 +32,4 @@ A Javascript Chat Application with NodeJs Server using Websockets
     </html>
 
 ### Screenshots
-<img src="./jschat.png" style="height:300px"><img src="./jschat2.png" style="height:300px"><img src="./jschat3.png" style="height:300px">
+<img src="https://github.com/rkmsnc/jschat/raw/main/jschat.png" style="height:300px"><img src="https://github.com/rkmsnc/jschat/raw/main/jschat2.png" style="height:300px"><img src="https://github.com/rkmsnc/jschat/raw/main/jschat3.png" style="height:300px">
